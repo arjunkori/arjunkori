@@ -16,9 +16,9 @@
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=tssovi" alt="tssovi" />
-    <a href="https://github.com/tssovi?tab=followers">
-        <img src="https://img.shields.io/github/followers/tssovi.svg?style=social&label=Follow" alt="tssovi" />
+    <img src="https://komarev.com/ghpvc/?username=arjunkori" alt="arjunkori" />
+    <a href="https://github.com/arjunkori?tab=followers">
+        <img src="https://img.shields.io/github/followers/tssovi.svg?style=social&label=Follow" alt="arjunkori" />
     </a>
 </p>
 
@@ -100,12 +100,12 @@
 <h1 align="center"></h1>
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tssovi&theme=nord_bright" alt="tssovi" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjunkori&theme=nord_bright" alt="tssovi" />
 </p>
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tssovi&theme=nord_bright" alt="tssovi" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tssovi&theme=nord_bright" alt="tssovi" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arjunkori&theme=nord_bright" alt="tssovi" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arjunkori&theme=nord_bright" alt="tssovi" />
 </p>
 
 <h1 align="center"></h1>
